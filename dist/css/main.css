@@ -99,7 +99,6 @@ header a:hover {
 
 #BookHere a {
   float: right;
-  margin-right: 47.2%;
 }
 
 /* Boxes */
@@ -117,6 +116,65 @@ header a:hover {
 
 #boxes .box img {
   width: 120px;
+}
+
+/* Gallery Page */
+
+.gallery-header {
+  text-align: center;
+}
+
+.container-gallery {
+  width: 840px;
+  margin: 40px auto;
+  overflow: auto;
+}
+
+.slider-inner {
+  width: 800px;
+  height: 600px;
+  position: relative;
+  overflow: hidden;
+  float: left;
+  padding: 1px;
+  border: #666 solid 1px;
+}
+
+.slider-inner img {
+  display: none;
+  width: 800px;
+  height: 600px;
+}
+
+.slider-inner img.active {
+  display: inline-block;
+}
+
+.prev,
+.next {
+  float: left;
+  margin-top: 250px;
+  cursor: pointer;
+}
+
+.prev {
+  position: relative;
+  margin-right: -95px;
+  z-index: 100;
+}
+
+.next {
+  position: relative;
+  margin-left: -95px;
+  z-index: 100;
+}
+
+/* Main-col */
+
+#gallery {
+  float: right;
+  margin-right: 5%;
+  height: 800px;
 }
 
 footer {
