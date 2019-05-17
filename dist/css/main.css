@@ -125,8 +125,8 @@ header a:hover {
 }
 
 .container-gallery {
-  width: 840px;
-  margin: 40px auto;
+  width: 890px;
+  margin: auto;
   overflow: auto;
 }
 
@@ -159,23 +159,17 @@ header a:hover {
 
 .prev {
   position: relative;
-  margin-right: -95px;
+  margin-right: -40px;
   z-index: 100;
 }
 
 .next {
   position: relative;
-  margin-left: -95px;
+  margin-left: -40px;
   z-index: 100;
 }
 
 /* Main-col */
-
-#gallery {
-  float: right;
-  margin-right: 5%;
-  height: 800px;
-}
 
 footer {
   padding: 20px;

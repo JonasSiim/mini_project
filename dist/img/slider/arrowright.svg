@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="79" viewBox="0 0 79 79">
+  <g id="Group_6" data-name="Group 6" transform="translate(1611 422) rotate(180)">
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1534 345)" fill="#76cc3e" stroke="#000" stroke-width="2">
+      <rect width="75" height="75" rx="37.5" stroke="none"/>
+      <rect x="-1" y="-1" width="77" height="77" rx="38.5" fill="none"/>
+    </g>
+    <path id="play-button" d="M5.961,21.107,36.888.184a1.089,1.089,0,0,1,1.1-.065,1.043,1.043,0,0,1,.571.926V42.89a1.044,1.044,0,0,1-.571.927,1.087,1.087,0,0,1-1.1-.066L5.961,22.828a1.035,1.035,0,0,1,0-1.722ZM36.427,40.9V3.038L8.444,21.969Z" transform="translate(1544.669 360.387)" fill="#fff"/>
+  </g>
+</svg>

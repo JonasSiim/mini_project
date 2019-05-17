@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "James",
+    "email": "j@b.com",
+    "phone": "3333 333 333",
+    "room": "Glamping Tent",
+    "startDate": "10/06/2019",
+    "endDate": "20/06/2019",
+    "numberOfGuests": "2"
+  },
+  {
+    "id": 2,
+    "name": "Hugh",
+    "email": "h@b.com",
+    "phone": "3333 333 333",
+    "room": "Two Guest",
+    "startDate": "10/06/2019",
+    "endDate": "20/06/2019",
+    "numberOfGuests": "3"
+  }
+]
